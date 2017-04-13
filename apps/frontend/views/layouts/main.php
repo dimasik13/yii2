@@ -36,6 +36,7 @@ AppAsset::register($this);
     ]);
     $menuItems = [
         ['label' => 'Главная', 'url' => ['/site/index']],
+        ['label' => 'Первая страница', 'url' => ['/site/pervaya']],
         //вложеное меню
         ['label' => 'О нас', 
             'items' => [
