@@ -41,7 +41,7 @@ AppAsset::register($this);
             'items' => [
         ['label' => 'История', 'url' => ['/site/about']],
         '<li class="divider"></li>',
-        '<li class="dropdown-header">dropdown header</li>',
+        //'<li class="dropdown-header">dropdown header</li>',
         ['label' => 'Контакты', 'url' => ['/site/contact']],
             ],
         ],
