@@ -1,6 +1,6 @@
 <?php
 $this->title = 'Первая страница';
-
+?>
     <head>
         <meta charset="UTF-8">
         <title></title>
